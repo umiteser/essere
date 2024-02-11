@@ -15,6 +15,8 @@ public class Merhaba {
 
         }
 
+        System.out.println("merhaba 6");
+
     }
 
 
@@ -27,6 +29,11 @@ public class Merhaba {
     commit: değişiklikleri yaptım, açıklaması yani etiketi verilerek etiket edilmesi.
     genelden jira dan gelen taskın adı yazılır.
     Commit'e yaptığın işi yazıyorsun.
+
+    Repository: senin projenin github daki ve bilgisayarındaki bulunduğu yere verilen isim, deposu gibi.
+    Remote: gitHub
+    Private: başkası göremez, ancak senin izin verdiklerin görebilir.
+    Public: Herkes görebilir.
 
      */
 }
