@@ -34,6 +34,8 @@ public class Merhaba {
     Remote: gitHub
     Private: başkası göremez, ancak senin izin verdiklerin görebilir.
     Public: Herkes görebilir.
+    Share: bir kere yapılıyor.
+    Commit+push: yeni task yapılınca.
 
      */
 }
